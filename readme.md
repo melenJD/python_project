@@ -14,4 +14,4 @@
 
 # 외부 링크
 
-Notion = https://www.notion.so/e3d642c1c6634dd1a7b21a47e76132d7
+- [Notion](https://www.notion.so/e3d642c1c6634dd1a7b21a47e76132d7)
